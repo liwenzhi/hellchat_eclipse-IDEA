@@ -24,5 +24,6 @@
     <string name="about_app_icon_content_description">App icon</string>
     <string name="about_go_to_github">Go to GitHub</string>
     <string name="go_to_wenzhi_CSDN">Go to wenzhi CSDN</string>
+    <string name="go_to_wenzhi_github">Go to wenzhi github</string>
 
 </resources>

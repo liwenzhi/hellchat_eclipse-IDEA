@@ -19,7 +19,7 @@ import java.util.List;
 public class SimpleLineActivity extends Activity {
 
     private LineChartView chart;        //显示线条的自定义View
-    private LineChartData data;          //
+    private LineChartData data;          // 折线图封装的数据类
     private int numberOfLines =3;         //线条的数量
     private int maxNumberOfLines = 4;     //最大的线条数据
     private int numberOfPoints = 12;     //点的数量

@@ -78,18 +78,18 @@
             android:layout_marginTop="8dp"
             android:gravity="center"
             android:padding="8dp"
-            android:text="@string/about_go_to_github"
+            android:text="@string/go_to_wenzhi_github"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textColor="@color/selector_text_link" />
         <TextView
             android:id="@+id/go_to_wenzhi_CSDN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/go_to_github"
+            android:layout_below="@id/go_to_wenzhi_github"
             android:layout_marginTop="8dp"
             android:gravity="center"
             android:padding="8dp"
-            android:text="@string/about_go_to_github"
+            android:text="@string/go_to_wenzhi_CSDN"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textColor="@color/selector_text_link" />
     </RelativeLayout>

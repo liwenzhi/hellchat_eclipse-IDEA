@@ -20,8 +20,8 @@ import android.widget.TextView;
 public class AboutActivity extends FragmentActivity {
     public static final String TAG = AboutActivity.class.getSimpleName();
     public static final String GITHUB_URL = "github.com/lecho/hellocharts-android";
-    public static final String GITHUB_WENZHI_URL = "github.com/lecho/hellocharts-android";
-    public static final String CSDN_WENZHI = "github.com/lecho/hellocharts-android";
+    public static final String GITHUB_WENZHI_URL = "github.com/liwenzhi/hellchat_eclipse-IDEA";
+    public static final String CSDN_WENZHI = "blog.csdn.net/wenzhi20102321";
 
     public static Pair<String, Integer> getAppVersionAndBuild(Context context) {
         try {
@@ -99,7 +99,6 @@ public class AboutActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
                     launchWebBrowser(getActivity(), GITHUB_WENZHI_URL);
-
                 }
             });
 
@@ -110,7 +109,6 @@ public class AboutActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
                     launchWebBrowser(getActivity(), CSDN_WENZHI);
-
                 }
             });
 
