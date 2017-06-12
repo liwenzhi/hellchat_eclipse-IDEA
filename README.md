@@ -5,18 +5,31 @@
 helloChart框架功能和效果都是比较多的：
 介绍下里面存中的图形和相关的Activity
 
+
 #1.LineChartActivity   			折线图形
+
 #2.ColumnChartActivity 			柱状图形
+
 #3.PieChartActivity    			饼状图形
+
 #4.BubbleChartActivity 			泡泡图形
+
 #5.PreviewLineChartActivity		局部缩放的折线图形
+
 #6.PreviewColumnChartActivity	局部缩放的柱状图形
+
 #7.ComboLineColumnChartActivity 柱状图和折线图结合的图形
+
 #8.LineColumnDependencyActivity 点击柱状图某个柱子显示对应的折线的图形
+
 #9.SpeedChartActivity 			速度图形
+
 #10.TempoChartActivity			节奏图形
+
 #11.GoodBadChartActivity 		好和坏情况显示图形
+
 #12.ViewPagerChartsActivity		多种图形结合ViewPager显示
+
 
 
 
